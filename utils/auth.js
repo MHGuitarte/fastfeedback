@@ -1,5 +1,3 @@
-const { useState, useEffect, useContext, createContext } = require("react");
-
 import React, { useState, useEffect, useContext, createContext } from "react";
 import firebase from "./firebase";
 
